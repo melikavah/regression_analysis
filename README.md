@@ -131,7 +131,7 @@ To run this project please make sure that you are in the same root as the `READM
   ```
   pip install -r requirements.txt
   ```
-* You can run the main file and get all the results by:
+* Command for running the main file and getting all the results:
   ```
   python -m src.main
   ```  
